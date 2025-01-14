@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<img align="right" height="190" src="https://64.media.tumblr.com/c9afb0a8af7d85acee9e65248d8fa2e2/17ac474dc822d53e-46/s540x810/51240ff445afd089612ac93f74f75a1321fe7b4e.gifv"  />
+<img align="right" height="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1cGh0aWZ4MTIyMm9sZXUwcm10emRhMGVmYWY3dTJnYWptcjBkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x2P2t0W9IYgymmPjIJ/giphy.gif"  />
 
 ###
 
