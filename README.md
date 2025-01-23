@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm gh0stri13y – a passionate penetration tester and cybersecurity enthusiast from India.</h2>
+<h2 align="left">Hi 👋! I'm 0xgh0stri13y – a passionate penetration tester and cybersecurity enthusiast from India.</h2>
 
 ###
 
