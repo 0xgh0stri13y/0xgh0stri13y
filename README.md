@@ -1,69 +1,122 @@
-<h2 align="left">Hi 👋! I'm 0xgh0stri13y – a passionate penetration tester and cybersecurity enthusiast from India.</h2>
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:39ff88&height=220&section=header&text=0xgh0stri13y&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=you%20won't%20see%20me%20coming%20%E2%80%94%20but%20your%20logs%20will&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+</p>
 
-###
-
-<h6 align="left">🔍 What I Do:<br>▫️🛡️ Conduct penetration testing and security assessments.<br>▫️💻 Participate in Capture The Flag (CTF) challenges to sharpen my skills.<br>▫️🛠️ Develop tools to help automate vulnerability scanning and exploitation.<br><br>🌟 What Drives Me<br>▫️Tackling real-world challenges through red teaming and purple teaming exercises.<br>▫️Creating impactful tools that empower individuals and organizations to stay secure.<br>▫️Sharing knowledge <br><br><br>🎯 Current Focus<br>▫️Expanding my expertise in security filters and exploit development.<br>▫️Contributing to cybersecurity awareness and community-driven projects.</h6>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="https://x.com/Gh0st_Ri13y" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+<p align="center">
+  <a href="https://github.com/0xgh0stri13y">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+penetration+tester+%F0%9F%87%AE%F0%9F%87%B3;Red+%26+purple+teaming+enthusiast;CTF+player+%C2%B7+bug+hunter+%C2%B7+tool+builder;ESP32+hardware+tinkerer+%F0%9F%93%A1;Breaking+things+so+they+get+fixed." alt="typing intro"/>
   </a>
-</div>
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xgh0stri13y&label=PROFILE+VISITS&color=39ff88&style=for-the-badge&labelColor=0d1117" alt="visits"/>
+  <a href="https://github.com/0xgh0stri13y?tab=followers"><img src="https://img.shields.io/github/followers/0xgh0stri13y?label=FOLLOWERS&style=for-the-badge&color=39ff88&labelColor=0d1117&logo=github" alt="followers"/></a>
+  <a href="https://x.com/Gh0st_Ri13y"><img src="https://img.shields.io/badge/@Gh0st__Ri13y-0d1117?style=for-the-badge&logo=x&logoColor=39ff88" alt="X"/></a>
+</p>
 
-<br clear="both">
+<br/>
 
-<img align="right" height="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1cGh0aWZ4MTIyMm9sZXUwcm10emRhMGVmYWY3dTJnYWptcjBkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x2P2t0W9IYgymmPjIJ/giphy.gif"  />
+<!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-###
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xgh0stri13y&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xgh0stri13y&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### 👻 `cat about_me.md`
 
-###
+```yaml
+name:       0xgh0stri13y
+role:       Penetration Tester
+based_in:   India
+mindset:    "Think like an attacker, build for defenders."
+
+what_i_do:
+  - Penetration testing & security assessments
+  - Capture The Flag challenges
+  - Building tools that automate vuln discovery
+
+what_drives_me:
+  - Red & purple team exercises
+  - Tools that help people stay secure
+  - Sharing knowledge with the community
+
+current_focus:
+  - Security filters & exploit development
+  - ESP32 hardware security tooling
+  - Community-driven security awareness
+```
+
+</td>
+<td width="42%" align="center" valign="middle">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1cGh0aWZ4MTIyMm9sZXUwcm10emRhMGVmYWY3dTJnYWptcjBkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x2P2t0W9IYgymmPjIJ/giphy.gif" width="100%" alt="ghost"/>
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════  PROJECTS  ═══════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### 🧪 `ls ~/projects --featured`
+
+<p align="center">
+  <a href="https://github.com/0xgh0stri13y/Marauder-Web-UI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xgh0stri13y&repo=Marauder-Web-UI&theme=chartreuse-dark&bg_color=0d1117&title_color=39ff88&icon_color=39ff88&border_color=1f6f4a" width="49%"/></a>
+  <a href="https://github.com/0xgh0stri13y/Null-Loader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xgh0stri13y&repo=Null-Loader&theme=chartreuse-dark&bg_color=0d1117&title_color=39ff88&icon_color=39ff88&border_color=1f6f4a" width="49%"/></a>
+  <a href="https://github.com/0xgh0stri13y/Gh0st_CSRF"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xgh0stri13y&repo=Gh0st_CSRF&theme=chartreuse-dark&bg_color=0d1117&title_color=39ff88&icon_color=39ff88&border_color=1f6f4a" width="49%"/></a>
+  <a href="https://github.com/0xgh0stri13y/GHOST-SCANNER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xgh0stri13y&repo=GHOST-SCANNER&theme=chartreuse-dark&bg_color=0d1117&title_color=39ff88&icon_color=39ff88&border_color=1f6f4a" width="49%"/></a>
+</p>
+
+<!-- ═══════════════════════════  ARSENAL  ═══════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### 🛠️ `echo $ARSENAL`
+
+<p align="center">
+  <b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,php,bash,html,css&theme=dark" alt="languages"/>
+</p>
+<p align="center">
+  <b>Platforms & Tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,kali,arch,androidstudio,mysql,sqlite,git,docker,vscode,eclipse&theme=dark" alt="tools"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+  <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=39ff88"/>
+  <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=3ce2ff"/>
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+  <img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=E7352C"/>
+</p>
+
+<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### 📊 `tail -f ~/.activity`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xgh0stri13y&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&bg_color=0d1117&title_color=39ff88&icon_color=39ff88&border_color=1f6f4a&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xgh0stri13y&layout=compact&langs_count=6&theme=chartreuse-dark&bg_color=0d1117&title_color=39ff88&border_color=1f6f4a" height="170"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=0xgh0stri13y&theme=dark&background=0d1117&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&sideLabels=39ff88&currStreakNum=ffffff&sideNums=ffffff&dates=6b7a8c&border=1f6f4a" width="70%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xgh0stri13y&bg_color=0d1117&color=39ff88&line=39ff88&point=ffffff&area=true&area_color=0f3d2e&hide_border=false&border_color=1f6f4a" width="100%"/>
+</p>
+
+<!-- Contribution snake: generated by .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xgh0stri13y/0xgh0stri13y/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/0xgh0stri13y/0xgh0stri13y/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+  </picture>
+</p>
+
+<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff88,50:0f3d2e,100:0d1117&height=120&section=footer" width="100%"/>
+</p>
