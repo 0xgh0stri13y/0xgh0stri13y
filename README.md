@@ -60,24 +60,12 @@ current_focus:
 
 ### 🧪 `ls ~/projects --featured`
 
-<table width="100%">
-  <tr>
-    <td><a href="https://github.com/0xgh0stri13y/Marauder-Web-UI"><b>Marauder-Web-UI</b></a><br/><sub>A minimal web UI for ESP32 Marauder</sub></td>
-    <td align="right"><img src="https://img.shields.io/github/stars/0xgh0stri13y/Marauder-Web-UI?style=flat-square&color=ff1f3d&labelColor=0d1117&logo=github" alt="stars"/> <img src="https://img.shields.io/github/languages/top/0xgh0stri13y/Marauder-Web-UI?style=flat-square&color=ff1f3d&labelColor=0d1117" alt="language"/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/0xgh0stri13y/Null-Loader"><b>Null-Loader</b></a><br/><sub>Web-based firmware deployment suite for ESP32 security toolkits</sub></td>
-    <td align="right"><img src="https://img.shields.io/github/stars/0xgh0stri13y/Null-Loader?style=flat-square&color=ff1f3d&labelColor=0d1117&logo=github" alt="stars"/> <img src="https://img.shields.io/github/languages/top/0xgh0stri13y/Null-Loader?style=flat-square&color=ff1f3d&labelColor=0d1117" alt="language"/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/0xgh0stri13y/Gh0st_CSRF"><b>Gh0st_CSRF</b></a><br/><sub>CSRF vulnerability scanner</sub></td>
-    <td align="right"><img src="https://img.shields.io/github/stars/0xgh0stri13y/Gh0st_CSRF?style=flat-square&color=ff1f3d&labelColor=0d1117&logo=github" alt="stars"/> <img src="https://img.shields.io/github/languages/top/0xgh0stri13y/Gh0st_CSRF?style=flat-square&color=ff1f3d&labelColor=0d1117" alt="language"/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/0xgh0stri13y/GHOST-SCANNER"><b>GHOST-SCANNER</b></a><br/><sub>Vulnerability scanner</sub></td>
-    <td align="right"><img src="https://img.shields.io/github/stars/0xgh0stri13y/GHOST-SCANNER?style=flat-square&color=ff1f3d&labelColor=0d1117&logo=github" alt="stars"/> <img src="https://img.shields.io/github/languages/top/0xgh0stri13y/GHOST-SCANNER?style=flat-square&color=ff1f3d&labelColor=0d1117" alt="language"/></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/0xgh0stri13y/Marauder-Web-UI"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=Marauder-Web-UI&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="Marauder-Web-UI"/></a>
+  <a href="https://github.com/0xgh0stri13y/Null-Loader"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=Null-Loader&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="Null-Loader"/></a>
+  <a href="https://github.com/0xgh0stri13y/Gh0st_CSRF"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=Gh0st_CSRF&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="Gh0st_CSRF"/></a>
+  <a href="https://github.com/0xgh0stri13y/CVE-2026-109519"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=CVE-2026-109519&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="CVE-2026-109519"/></a>
+</p>
 
 <!-- ═══════════════════════════  ARSENAL  ═══════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ff1f3d,100:0d1117&height=3" width="100%" alt=""/>
