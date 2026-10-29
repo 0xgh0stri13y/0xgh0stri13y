@@ -30,7 +30,7 @@
 name:       0xgh0stri13y
 role:       Penetration Tester
 based_in:   India
-mindset:    "Think like an attacker, build for defenders."
+mindset:    "Chasing bugs beyond the obvious."
 
 what_i_do:
   - Penetration testing & security assessments
