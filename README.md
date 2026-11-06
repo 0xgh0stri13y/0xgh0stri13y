@@ -5,13 +5,14 @@
 
 <p align="center">
   <a href="https://github.com/0xgh0stri13y">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=ff1f3d&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+penetration+tester+%F0%9F%87%AE%F0%9F%87%B3;Red+%26+purple+teaming+enthusiast;CTF+player+%C2%B7+bug+hunter+%C2%B7+tool+builder;ESP32+hardware+tinkerer+%F0%9F%93%A1;Breaking+things+so+they+get+fixed." alt="typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=ff1f3d&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+Ghost+Riley+%F0%9F%91%BB;Offensive+security+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3;CVE-2026-109519+%E2%86%92+unauth+path+traversal%2C+CVSS+8.3;Red+team+mindset.+Exploit-first+thinking.;Break+it.+Prove+it.+Report+it." alt="typing intro"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xgh0stri13y&label=PROFILE+VISITS&color=ff1f3d&style=for-the-badge&labelColor=0d1117" alt="visits"/>
   <a href="https://github.com/0xgh0stri13y?tab=followers"><img src="https://img.shields.io/github/followers/0xgh0stri13y?label=FOLLOWERS&style=for-the-badge&color=ff1f3d&labelColor=0d1117&logo=github" alt="followers"/></a>
+  <a href="https://alensebastian.in"><img src="https://img.shields.io/badge/alensebastian.in-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff1f3d" alt="website"/></a>
   <a href="https://x.com/Gh0st_Ri13y"><img src="https://img.shields.io/badge/@Gh0st__Ri13y-0d1117?style=for-the-badge&logo=x&logoColor=ff1f3d" alt="X"/></a>
 </p>
 
@@ -27,25 +28,28 @@
 ### 👻 `cat about_me.md`
 
 ```yaml
-name:       0xgh0stri13y
-role:       Penetration Tester
+name:       Ghost Riley (0xgh0stri13y)
+role:       Offensive Security · Penetration Tester
 based_in:   India
+website:    alensebastian.in
 mindset:    "Chasing bugs beyond the obvious."
 
 what_i_do:
-  - Penetration testing & security assessments
-  - Capture The Flag challenges
-  - Building tools that automate vuln discovery
+  - Penetration testing & offensive assessments
+  - Vulnerability research (1 assigned CVE, CVSS 8.3)
+  - Offensive tooling: CSRF + CRLF injection exploitation, ESP32 attack kits
+  - CTFs
 
 what_drives_me:
-  - Red & purple team exercises
-  - Tools that help people stay secure
-  - Sharing knowledge with the community
+  - Red team operations
+  - Finding the bug the scanner missed
+  - Handing the community weapons-grade tooling
 
 current_focus:
-  - Security filters & exploit development
-  - ESP32 hardware security tooling
-  - Community-driven security awareness
+  - Exploit dev & security filter bypasses
+  - Gh0st_CSRF + FROST: automated web exploitation
+  - Marauder-Web-UI + Null-Loader: ESP32 wireless attack tooling
+  - Clean-Your-Mobile: gutting Android telemetry, no root
 ```
 
 </td>
@@ -61,9 +65,11 @@ current_focus:
 ### 🧪 `ls ~/projects --featured`
 
 <p align="center">
+  <a href="https://github.com/0xgh0stri13y/Clean-Your-Mobile"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=Clean-Your-Mobile&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="Clean-Your-Mobile"/></a>
   <a href="https://github.com/0xgh0stri13y/Marauder-Web-UI"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=Marauder-Web-UI&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="Marauder-Web-UI"/></a>
-  <a href="https://github.com/0xgh0stri13y/Null-Loader"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=Null-Loader&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="Null-Loader"/></a>
   <a href="https://github.com/0xgh0stri13y/Gh0st_CSRF"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=Gh0st_CSRF&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="Gh0st_CSRF"/></a>
+  <a href="https://github.com/0xgh0stri13y/FROST"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=FROST&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="FROST"/></a>
+  <a href="https://github.com/0xgh0stri13y/Null-Loader"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=Null-Loader&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="Null-Loader"/></a>
   <a href="https://github.com/0xgh0stri13y/CVE-2026-109519"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=CVE-2026-109519&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="CVE-2026-109519"/></a>
 </p>
 
@@ -95,7 +101,6 @@ current_focus:
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/0xgh0stri13y?affiliations=OWNER&style=for-the-badge&color=ff1f3d&labelColor=0d1117&logo=github&label=TOTAL+STARS" alt="stars"/>
-  <img src="https://img.shields.io/badge/PUBLIC_REPOS-6-ff1f3d?style=for-the-badge&labelColor=0d1117&logo=github" alt="repos"/>
   <img src="https://img.shields.io/github/followers/0xgh0stri13y?style=for-the-badge&color=ff1f3d&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="followers"/>
 </p>
 <p align="center">
