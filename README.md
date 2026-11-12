@@ -1,128 +1,63 @@
-<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<h1 align="center">Alen Sebastian</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3d0a12,100:ff1f3d&height=220&section=header&text=0xgh0stri13y&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=you%20won't%20see%20me%20coming%20%E2%80%94%20but%20your%20logs%20will&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+  Security researcher and penetration tester &middot; Kerala, India
 </p>
 
 <p align="center">
-  <a href="https://github.com/0xgh0stri13y">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=ff1f3d&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+Ghost+Riley+%F0%9F%91%BB;Offensive+security+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3;CVE-2026-109519+%E2%86%92+unauth+path+traversal%2C+CVSS+8.3;Red+team+mindset.+Exploit-first+thinking.;Break+it.+Prove+it.+Report+it." alt="typing intro"/>
-  </a>
+  <a href="https://alensebastian.in">Website</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/alen-sebastian/">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://x.com/Gh0st_Ri13y">X</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:hello@alensebastian.in">hello@alensebastian.in</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xgh0stri13y&label=PROFILE+VISITS&color=ff1f3d&style=for-the-badge&labelColor=0d1117" alt="visits"/>
-  <a href="https://github.com/0xgh0stri13y?tab=followers"><img src="https://img.shields.io/github/followers/0xgh0stri13y?label=FOLLOWERS&style=for-the-badge&color=ff1f3d&labelColor=0d1117&logo=github" alt="followers"/></a>
-  <a href="https://alensebastian.in"><img src="https://img.shields.io/badge/alensebastian.in-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff1f3d" alt="website"/></a>
-  <a href="https://x.com/Gh0st_Ri13y"><img src="https://img.shields.io/badge/@Gh0st__Ri13y-0d1117?style=for-the-badge&logo=x&logoColor=ff1f3d" alt="X"/></a>
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-0d1117?style=flat-square&labelColor=0d1117&color=c9d1d9" alt="Offensive security"/>
+  <img src="https://img.shields.io/badge/Certs-eJPTv2%20%C2%B7%20ACP%20%C2%B7%20CAPv2%20%C2%B7%20CNSP-0d1117?style=flat-square&labelColor=0d1117&color=c9d1d9" alt="Certifications"/>
+  <img src="https://img.shields.io/badge/CVE-2026--109519-0d1117?style=flat-square&labelColor=0d1117&color=c9d1d9" alt="CVE-2026-109519"/>
 </p>
 
-<br/>
+---
 
-<!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ff1f3d,100:0d1117&height=3" width="100%" alt=""/>
+## About
 
-<table>
-<tr>
-<td width="58%" valign="top">
+I test web applications, APIs, and networks, and I build the tooling I want on hand while doing it. Most of the work here is offensive security: vulnerability scanners tuned for low false positives, ESP32 wireless tooling with a usable web front end, and a no-root Android debloater.
 
-### 👻 `cat about_me.md`
+I was a security consultant at Gladius &amp; Schild from 2024 to 2026, running penetration tests, code reviews, and custom tooling for enterprise clients. I now work independently on bug bounty and responsible disclosure.
 
-```yaml
-name:       Ghost Riley (0xgh0stri13y)
-role:       Offensive Security · Penetration Tester
-based_in:   India
-website:    alensebastian.in
-mindset:    "Chasing bugs beyond the obvious."
+Certified eJPTv2, ACP (APIsec Certified Practitioner), CAPv2 (Certified AppSec Practitioner), and CNSP (Certified Network Security Practitioner).
 
-what_i_do:
-  - Penetration testing & offensive assessments
-  - Vulnerability research (1 assigned CVE, CVSS 8.3)
-  - Offensive tooling: CSRF + CRLF injection exploitation, ESP32 attack kits
-  - CTFs
+## Projects
 
-what_drives_me:
-  - Red team operations
-  - Finding the bug the scanner missed
-  - Handing the community weapons-grade tooling
+| Project | Summary | Stack |
+| :------ | :------ | :---- |
+| [Clean-Your-Mobile](https://github.com/0xgh0stri13y/Clean-Your-Mobile) | No-root Android debloater. Runs on the phone through Shizuku or from a computer over USB/Wi-Fi. Reversible. | Python, Kotlin, Shell |
+| [Marauder-Web-UI](https://github.com/0xgh0stri13y/Marauder-Web-UI) | Web control panel for ESP32 Marauder, covering Wi-Fi and Bluetooth reconnaissance from one interface. | JavaScript, CSS |
+| [Null-Loader](https://github.com/0xgh0stri13y/Null-Loader) | Browser-based firmware flasher for ESP32 security toolkits via the Web Serial API. No CLI or drivers. | JavaScript, Web Serial |
+| [Gh0st_CSRF](https://github.com/0xgh0stri13y/Gh0st_CSRF) | Multi-threaded CSRF scanner with concurrent crawling, token detection, and PoC generation. | Python |
+| [GHOST-SCANNER](https://github.com/0xgh0stri13y/GHOST-SCANNER) | Automated web vulnerability scanner with OWASP Top 10 checks across fourteen modules. | Python |
+| [FROST](https://github.com/0xgh0stri13y/FROST) | CRLF injection scanner using multi-signal detection and raw TCP verification for low false positives. | Python |
 
-current_focus:
-  - Exploit dev & security filter bypasses
-  - Gh0st_CSRF + FROST: automated web exploitation
-  - Marauder-Web-UI + Null-Loader: ESP32 wireless attack tooling
-  - Clean-Your-Mobile: gutting Android telemetry, no root
-```
+## Security research
 
-</td>
-<td width="42%" align="center" valign="middle">
-  <img src="assets/ghost.svg" width="100%" alt="ghost"/>
-</td>
-</tr>
-</table>
+- **[CVE-2026-109519](https://github.com/0xgh0stri13y/CVE-2026-109519)** &mdash; Unauthenticated path traversal leading to arbitrary file write in YouTransfer &le; 1.1.0. CWE-22, CVSS 3.1 base 8.3 (High). Credited to Alen Sebastian via VulDB. [CVE record](https://www.cve.org/CVERecord?id=CVE-2026-109519)
+- **Hall of fame** &mdash; Credited for responsibly disclosed vulnerabilities to Decathlon, NASA, and Electroneum.
 
-<!-- ═══════════════════════════  PROJECTS  ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ff1f3d,100:0d1117&height=3" width="100%" alt=""/>
+## Toolbox
 
-### 🧪 `ls ~/projects --featured`
-
-<p align="center">
-  <a href="https://github.com/0xgh0stri13y/Clean-Your-Mobile"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=Clean-Your-Mobile&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="Clean-Your-Mobile"/></a>
-  <a href="https://github.com/0xgh0stri13y/Marauder-Web-UI"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=Marauder-Web-UI&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="Marauder-Web-UI"/></a>
-  <a href="https://github.com/0xgh0stri13y/Gh0st_CSRF"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=Gh0st_CSRF&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="Gh0st_CSRF"/></a>
-  <a href="https://github.com/0xgh0stri13y/FROST"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=FROST&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="FROST"/></a>
-  <a href="https://github.com/0xgh0stri13y/Null-Loader"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=Null-Loader&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="Null-Loader"/></a>
-  <a href="https://github.com/0xgh0stri13y/CVE-2026-109519"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=0xgh0stri13y&repo=CVE-2026-109519&theme=dark&text_color=c9d1d9&bg_color=0d1117&title_color=ff1f3d&icon_color=ff1f3d&border_color=6f1f2a" width="49%" alt="CVE-2026-109519"/></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php,bash,linux,kali,docker&theme=dark" alt="Languages and platforms"/>
 </p>
 
-<!-- ═══════════════════════════  ARSENAL  ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ff1f3d,100:0d1117&height=3" width="100%" alt=""/>
+Burp Suite &middot; Nmap &middot; Metasploit &middot; Wireshark &middot; Ghidra &middot; SQLMap
 
-### 🛠️ `echo $ARSENAL`
+## Contact
 
-<p align="center">
-  <b>Languages</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,php,bash,html,css&theme=dark" alt="languages"/>
-</p>
-<p align="center">
-  <b>Platforms & Tools</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=linux,kali,arch,androidstudio,mysql,sqlite,git,docker,vscode,eclipse&theme=dark" alt="tools"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
-  <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=ff1f3d"/>
-  <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=3ce2ff"/>
-  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
-  <img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=E7352C"/>
-</p>
+Open to penetration testing engagements, security assessments, and responsible-disclosure collaboration.
 
-<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ff1f3d,100:0d1117&height=3" width="100%" alt=""/>
-
-### 📊 `tail -f ~/.activity`
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/0xgh0stri13y?affiliations=OWNER&style=for-the-badge&color=ff1f3d&labelColor=0d1117&logo=github&label=TOTAL+STARS" alt="stars"/>
-  <img src="https://img.shields.io/github/followers/0xgh0stri13y?style=for-the-badge&color=ff1f3d&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="followers"/>
-</p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/ff1f3d/0xgh0stri13y" width="90%" alt="contributions"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.vercel.app/?user=0xgh0stri13y&theme=dark&background=0d1117&ring=ff1f3d&fire=ff1f3d&currStreakLabel=ff1f3d&sideLabels=ff1f3d&currStreakNum=ffffff&sideNums=ffffff&dates=6b7a8c&border=6f1f2a" width="70%"/>
-</p>
-
-<!-- Contribution snake: generated by .github/workflows/snake.yml -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xgh0stri13y/0xgh0stri13y/output/github-contribution-grid-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/0xgh0stri13y/0xgh0stri13y/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
-  </picture>
-</p>
-
-<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
-<p align="center">
-  <i>"The quieter you become, the more you are able to hear."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1f3d,50:3d0a12,100:0d1117&height=120&section=footer" width="100%"/>
-</p>
+- Email &mdash; [hello@alensebastian.in](mailto:hello@alensebastian.in)
+- Website &mdash; [alensebastian.in](https://alensebastian.in)
+- LinkedIn &mdash; [alen-sebastian](https://www.linkedin.com/in/alen-sebastian/)
